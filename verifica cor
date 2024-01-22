@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-
+scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Exemplo 2.1</title>
+</head>
+<body>
+<h1> Programa Verifica cor </h1>
+<p id="teste"><br></p>
+
+<input type="text" id="cor" style="padding:20px; font-size: 24px;" placeholder="Digite uma cor">
+<button onclick="verificaCor()" style="padding: 10px;">Verificar</button>
+<button onclick="limpaTexto()" style="padding: 10px;">Limpa Texto</button>
+
+
+<script src ="js/especialidade.js"></script>
+</body>
+</html>
